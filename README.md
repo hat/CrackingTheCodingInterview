@@ -47,4 +47,7 @@ Reading through/ working through Cracking the Coding Interview by Gayle McDowell
 		U - Unnecessary Work
 		D - Duplicated Work
 
-	
+
+## Chapter 1 - Arrays and Strings
+
+		
